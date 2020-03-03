@@ -1,0 +1,3 @@
+[submodule "ancestryinfer"]
+	path = ancestryinfer
+	url = https://github.com/Schumerlab/ancestryinfer
